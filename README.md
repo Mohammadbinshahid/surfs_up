@@ -1,7 +1,6 @@
 # surfs_up
 
 ## Purpose 
-
 ###The purpose of this analysis is to convince W. Avy to invest in our idea for Waves and Ice Cream. The key focus was to analyse whether data to establish feasibility of investing in this business by backing the business proposition with concrete analysis about weather data.
 
 ### As a continuation of our analysis, Mr. W Avy wanted to understand the weather patterns in Oahu to establish year round feasibility and was specifically interested in the months of June and December.
